@@ -13,8 +13,8 @@ humandate: "Tue & Thurs, July 14-23"
 humantime: "1-2:30pm"    
 startdate: 2020-07-14     
 enddate: 2020-07-23       
-instructor: ["Selcan Aydin", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Selcan Aydin", "Sue McClatchy"] 
+helper: ["Isabela Gerdes Gyuricza"]
 email: ["susan.mcclatchy@jax.org"]    
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 112481296586
