@@ -13,8 +13,8 @@ humandate: "Tue & Thurs, July 14-23"
 humantime: "1-2:30pm"    
 startdate: 2020-07-14     
 enddate: 2020-07-23       
-instructor: ["Selcan Aydin", "Sue McClatchy"] 
-helper: ["Isabela Gerdes Gyuricza", "Yuanxi Fu"]
+instructor: ["Amnah Siddiqa", "Yuanxi Fu", "Selcan Aydin"] 
+helper: ["Isabela Gerdes Gyuricza", "Sue McClatchy"]
 email: ["susan.mcclatchy@jax.org"]    
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 112481296586
