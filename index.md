@@ -16,7 +16,7 @@ enddate: 2020-07-23
 instructor: ["Amnah Siddiqa", "Yuanxi Fu", "Selcan Aydin"] 
 helper: ["Isabela Gerdes Gyuricza", "Sue McClatchy"]
 email: ["susan.mcclatchy@jax.org"]    
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://pad.carpentries.org/2020-07-14-r4ds-online
 eventbrite: 112481296586
 ---
 
